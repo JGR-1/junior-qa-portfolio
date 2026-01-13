@@ -22,4 +22,4 @@ Environment:
 Browser: Chrome 120
 OS: Windows 10
 
-Source: https://thefatefulforce.com/
+URL: https://thefatefulforce.com/
