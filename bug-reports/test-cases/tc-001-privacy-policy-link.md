@@ -12,3 +12,5 @@ Steps
 
 Expected Result:
 - Privacy Policy page opens successfully without errors.
+
+URL: https://thefatefulforce.com/
