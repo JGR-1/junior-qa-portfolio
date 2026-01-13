@@ -19,7 +19,7 @@ Actual result:
 User is redirected to a "404 - Page not found" page.
 
 Environment:
-Browser: Chrome 120
-OS: Windows 10
+- Browser: Chrome 120
+- OS: Windows 10
 
 URL: https://thefatefulforce.com/
