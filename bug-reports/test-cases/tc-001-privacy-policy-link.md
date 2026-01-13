@@ -10,5 +10,5 @@ Steps
 2. Navigate to "Register"
 3. Click on "Privacy Policy"
 
-Expected Result
-Privacy Policy page opens successfully without errors.
+Expected Result:
+- Privacy Policy page opens successfully without errors.
