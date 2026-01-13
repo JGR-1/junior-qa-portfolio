@@ -1,5 +1,4 @@
 # junior-qa-portfolio
-Junior QA Portfolio
 
 This repository contains my QA practice work, including:
 
