@@ -1,0 +1,15 @@
+# Application handles rapid consecutive user interactions without crashing
+
+Precondition
+- User is on the main page
+- Page is fully loaded
+
+Steps:
+1. Click multiple interactive elements (like buttons or tabs) in quick succession
+2. Perform actions without waiting for the previous action to complete
+
+Expected result:
+- Application should handle user input properly
+- No crashes, freezes, or unintended navigation should occur
+
+Source: https://store.steampowered.com/
