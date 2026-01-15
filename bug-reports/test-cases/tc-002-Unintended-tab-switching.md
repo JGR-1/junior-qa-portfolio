@@ -1,6 +1,4 @@
-# Unintended tab switching while scrolling between "Live Channels" and "Categories"
-
-Test Case ID: TC-002
+Unintended tab switching while scrolling between "Live Channels" and "Categories"
 
 Precondition:
 - User is logged into the Twitch mobile application
