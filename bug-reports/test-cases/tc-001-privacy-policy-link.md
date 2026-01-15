@@ -1,6 +1,4 @@
-# Verify Privacy Policy link redirects correctly
-
-Test Case ID: TC-001
+Verify Privacy Policy link redirects correctly
 
 Preconditions
 User is on the homepage.
