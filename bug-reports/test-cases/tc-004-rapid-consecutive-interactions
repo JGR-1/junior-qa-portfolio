@@ -1,4 +1,4 @@
-# Application handles rapid consecutive user interactions without crashing
+Application handles rapid consecutive user interactions without crashing
 
 Precondition
 - User is on the main page
