@@ -11,4 +11,8 @@ Steps:
 Expected result:
 - System should implement safeguards to prevent excessive or automated submissions
 
+Enviorment:
+- Chrome 120
+- Windows 10
+
 Source: https://arcosdourados.my.site.com/McDonaldsContacto/s/?language=es
