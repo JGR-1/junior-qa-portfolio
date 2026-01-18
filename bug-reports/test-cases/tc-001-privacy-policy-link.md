@@ -1,7 +1,7 @@
 Verify Privacy Policy link redirects correctly
 
-Preconditions
-User is on the homepage.
+Preconditions:
+- User is on the homepage.
 
 Steps
 1. Hover over "Token Shop"
