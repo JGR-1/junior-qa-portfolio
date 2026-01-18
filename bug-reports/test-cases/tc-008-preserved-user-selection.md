@@ -10,3 +10,9 @@ Steps:
 
 Expected result:
 - Page should mantain user preference even on reload or micro reloads
+
+Enviorment:
+- Chrome 120
+- Windows 10
+
+Source: https://www.bing.com/translator
