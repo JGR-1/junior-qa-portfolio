@@ -14,4 +14,4 @@ Enviorment:
 - Chrome 120
 - Windows 10
 
-Source: https://www.bing.com/
+Source: https://www.bing.com/translator
