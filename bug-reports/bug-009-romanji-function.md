@@ -1,4 +1,4 @@
-Translation to japanese romanji function works erraticly
+Translation to japanese romanji function works erratically
 
 Bug type: Functionality
 
@@ -11,7 +11,7 @@ Steps to reproduce:
 2. Input texts that contains a mix of kanji, katakana and hiragana
 
 Expected result:
-- Romanji should appear below every translated text to japanese
+- Romanji should appear below translated text to japanese
 
 Actual result:
 - Romanji doesnt appear consistently below the text, its not consistant, but the behavior its seen more commonly when many kanji are involved
