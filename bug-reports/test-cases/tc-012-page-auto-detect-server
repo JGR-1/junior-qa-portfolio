@@ -1,0 +1,17 @@
+Page should auto detect user closest server and display it
+
+Precondition:
+- User has to be in main page
+- User is not using a VPN
+
+Steps:
+- Click on "start"
+
+Expected result:
+- The server should be displayed to the user, and should recieve input of their download and upload speed based on the closest server automaticly, unleast modified before hand
+
+Enviorment:
+- Chrome 120
+- Windows 10
+
+Source: https://www.speedtest.net/
