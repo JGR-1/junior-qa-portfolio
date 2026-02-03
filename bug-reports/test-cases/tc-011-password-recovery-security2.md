@@ -13,4 +13,8 @@ Steps:
 Expected result:
 - The system should display a generic response regardless of wheter the email exists or not
 
+Enviorment:
+- Chrome 120
+- Windows 10
+
 Source: https://www.thievesguild.cc/
